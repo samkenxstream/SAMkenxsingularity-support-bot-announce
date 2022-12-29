@@ -16,7 +16,7 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@aws-cdk/assert": "1.125.0",
+    "@aws-cdk/assert": "1.185.0",
     "@types/jest": "^26.0.10",
     "@types/node": "10.17.27",
     "aws-cdk": "1.125.0",
@@ -26,8 +26,8 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "@aws-cdk/aws-apigateway": "1.125.0",
-    "@aws-cdk/aws-ecs": "1.125.0",
+    "@aws-cdk/aws-apigateway": "1.185.0",
+    "@aws-cdk/aws-ecs": "1.185.0",
     "@aws-cdk/aws-lambda": "1.125.0",
     "@aws-cdk/aws-s3": "1.125.0",
     "@aws-cdk/core": "1.125.0",
